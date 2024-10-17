@@ -1,0 +1,128 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #f0f3fb;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.perv{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #ffffff;
+    width: 750px;
+    height: 40px; 
+    position: absolute;
+    margin-left: 300px;
+    top: 140px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: black;
+    width: 1000px;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 20px;
+}
+input.checkbox{
+    margin-left: -20px;
+}
+
+.vtr{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #151626;
+    width: 750px;
+    height: 40px; 
+    position: absolute;
+    margin-left: 300px;
+    top: 200px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: white;
+    width: 1000px;
+}
+
+.tret{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #ffffff;
+    width: 750px;
+    height: 40px; 
+    position: absolute;
+    margin-left: 300px;
+    top: 300px;
+    width: 1000px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: black;
+    border-radius: 20px;
+}
+
+
+.pervyie{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.ost{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #000000;
+    width: 750px;
+    height: 40px; 
+    width: 1000px;
+    position: absolute;
+    margin-left: 260px;
+    top: 369px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.kalgandary{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.tuzu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    text-align: center;
+    width: 750px;
+    height: 40px; 
+    position: absolute;
+    margin-left: 300px;
+    width: 1000px;
+    top: 500px;
+    height: 50px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: rgb(0, 0, 0);
+
+}
+.dvatuzu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    text-align: center;
+    width: 750px;
+    height: 40px; 
+    width: 1000px;
+    position: absolute;
+    margin-left: 300px;
+    top: 580px;
+    height: 50px;
+    box-shadow: 0 3px 8px rgb(103, 102, 102);
+    color: rgb(255, 255, 255);
+}
